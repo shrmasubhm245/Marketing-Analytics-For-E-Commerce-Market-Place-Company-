@@ -3,6 +3,6 @@ Data containg information of customers, sellers, products, order, order payment,
 Joining of different tables was performed as per the requirements.
 Major insights from the data are as follows:
 Andhra Pradesh having maximum number of customers & generated maximum revenue, Akkarampalle city in Andhra Pradesh generate maximum revenue.
-Revenue was maximum in year 2018.In most of the times revenue increases as the month increases.
-80% of thecustomers uses credit card for payment.
+Revenue was maximum in year 2018. Revenues increases with the months most of the times.
+80% of the customers uses credit card for payment.
 Bed Bath Table was the most popular among all the categories.'Cds_Dvds_Musicals' are the most rated categories among all.
